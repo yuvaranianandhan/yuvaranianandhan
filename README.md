@@ -15,8 +15,12 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 # 💫 About Me:
-#### Hi there! 👋<br><br>I'm Yuvarani, a passionate data science enthusiast with a keen interest in extracting insights from data to drive decision-making. Currently pursuing my journey into the fascinating world of data science, I'm constantly exploring new techniques, algorithms, and tools to solve real-world problems.<br><br> 
-<br>- 📊 Data-driven decision-making advocate.<br>- 💻 Constantly learning and experimenting with data science techniques.<br>- 🌱 Passionate about machine learning, data visualization, and statistical analysis.<br>- 📝 Love sharing knowledge and insights through articles and projects.<br>- 🤝 Open to collaboration and eager to contribute to impactful projects.<br><br>
+#### Hi there! 👋<br><br>I'm Yuvarani, a passionate data science enthusiast with a keen interest in extracting insights from data to drive decision-making. Currently pursuing my journey into the fascinating world of data science, I'm constantly exploring new techniques, algorithms, and tools to solve real-world problems.
+- 📊 Data-driven decision-making advocate.
+- 💻 Constantly learning and experimenting with data science techniques.
+- 🌱 Passionate about machine learning, data visualization, and statistical analysis.
+- 📝 Love sharing knowledge and insights through articles and projects.
+- 🤝 Open to collaboration and eager to contribute to impactful projects.<br><br>
 
 
 # 🌐 Socials:
